@@ -1,0 +1,15 @@
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\bin\Debug\net8.0\baitonghop.exe
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\bin\Debug\net8.0\baitonghop.deps.json
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\bin\Debug\net8.0\baitonghop.runtimeconfig.json
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\bin\Debug\net8.0\baitonghop.dll
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\bin\Debug\net8.0\baitonghop.pdb
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.AssemblyInfoInputs.cache
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.AssemblyInfo.cs
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.csproj.CoreCompileInputs.cache
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.sourcelink.json
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.dll
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\refint\baitonghop.dll
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.pdb
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\baitonghop.genruntimeconfig.cache
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\baitonghop\baitonghop\obj\Debug\net8.0\ref\baitonghop.dll
