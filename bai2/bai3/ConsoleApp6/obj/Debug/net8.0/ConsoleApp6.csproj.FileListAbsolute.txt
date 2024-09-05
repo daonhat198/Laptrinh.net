@@ -1,0 +1,15 @@
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.sourcelink.json
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\laonh\OneDrive\Desktop\Nhat_Cpp\Laptring.net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
